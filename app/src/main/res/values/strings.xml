@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Masti Ki Pathshala</string>
+    <string name="app_tagline">Khelo, Masti Karo Aur Seekho!</string>
+    <string name="app_tagline_hi">खेलो, मस्ती करो और सीखो!</string>
+    <string name="nav_hindi">Hindi सीखें</string>
+    <string name="nav_english">English Learn</string>
+    <string name="nav_counting">गिनती सीखें</string>
+    <string name="nav_colors">Colors</string>
+    <string name="nav_animals">Animals</string>
+    <string name="nav_fruits">Fruits</string>
+    <string name="nav_rhymes">Rhymes</string>
+    <string name="nav_games">Learning Games</string>
+    <string name="nav_parents">Parent Zone</string>
+    <string name="nav_rewards">My Rewards</string>
+    <string name="btn_repeat">फिर से सुनें / Repeat</string>
+    <string name="btn_next">आगे बढ़ें / Next</string>
+    <string name="btn_prev">पीछे / Previous</string>
+    <string name="privacy_policy_title">Child Safety &amp; Privacy Policy</string>
+</resources>

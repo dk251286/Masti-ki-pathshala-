@@ -1,0 +1,6 @@
+{
+  "name": "Masti Ki Pathshala",
+  "description": "Colorful, fun, child-friendly bilingual (Hindi & English) educational learning app for children aged 1 to 6 years with interactive lessons, voice teacher, rhymes, counting, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
